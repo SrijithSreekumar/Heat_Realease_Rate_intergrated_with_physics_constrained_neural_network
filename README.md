@@ -1,6 +1,6 @@
-# Heat-Release-Rate-Estimation-uisng-ANN and PINN 
+# Heat-Release-Rate-Estimation-with physics constrained neural network. 
 
-## Data-driven discovery of heat release rate markers for premixed NH3/H2/air flames using physics-informed MAchin learning
+## Data-driven discovery of heat release rate markers for premixed NH3/H2/air flames using physics-informed Machine learning
 
 **General description:**
 
